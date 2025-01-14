@@ -662,7 +662,7 @@ body {
     height: 55px;
     position: relative;
     z-index: 1;
-    border: 2px solid #D64374;
+    border: 2px solid rgba(214, 67, 116,50%);
     border-radius: 5px;
     background-color: #0A0808;
     outline: none;
