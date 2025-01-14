@@ -640,7 +640,8 @@ body {
     opacity: 80%;
 }
 .footer-info{
-    margin: 66px,0,0, 137px;
+    margin-top: 66px;
+    margin-left: 137px;
 }
 .footer-info-title{
     font-family: Roboto;
